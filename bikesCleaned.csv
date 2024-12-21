@@ -1,0 +1,174 @@
+Model,Brand,Price,Max power,Max torque,Cooling System,Transmission,Transmission type,displacement,cylinders,Fuel Tank Capacity,Mileage,Top speed,Kerb weight,Location,Kilometer Driven,Seller Type,ground clearance,seat height
+Royal Enfield Hunter 350,Royal Enfield,149900,20.2,27,air/oil cooled,5 speed manual,chain drive,349,1,13,36,114,177,Coimbatore,3500,Dealer,150,790
+Royal Enfield Classic 350,Royal Enfield,190229,20.2,27,air/oil cooled,5 speed manual,chain drive,349,1,13,35,114,195,Chennai,5650,Dealer,170,805
+Royal Enfield Bullet 350,Royal Enfield,157391,19.1,28,air cooled,5 speed manual,chain drive,346,1,13.5,38,110,186,Madurai,12000,Dealer,135,800
+Royal Enfield Continental GT 650,Royal Enfield,304945,47,52,air/oil cooled,6 speed manual,chain drive,648,2,12.5,25,169,198,Trichy,23000,Dealer,174,793
+Royal Enfield Meteor 350,Royal Enfield,200924,20.2,27,air/oil cooled,5 speed manual,chain drive,349,1,15,35,112,191,Kanyakumari,21000,Dealer,170,765
+Royal Enfield Himalayan,Royal Enfield,215869,24.3,32,air cooled,5 speed manual,chain drive,411,1,15,30,120,199,Salem,60000,Dealer,220,800
+Royal Enfield Interceptor 650,Royal Enfield,288141,47,52,air/oil cooled,6 speed manual,chain drive,648,2,13.7,23,169,202,Tirupur,17000,Dealer,174,804
+Royal Enfield Scram 411,Royal Enfield,202923,24.3,32,air cooled,5 speed manual,chain drive,411,1,15,29,138,185,Erode,39000,Dealer,200,795
+TVS Raider 125,TVS,90524,11.2,11.2,air/oil cooled,5 speed manual,chain drive,124.8,1,10,57,99,123,Krishnagiri,32000,Dealer,180,780
+Apache,TVS,118381,15.31,13.9,air cooled,5 speed manual,chain drive,159.7,1,12,45,107,139,Coimbatore,42000,Dealer,180,790
+Apache,TVS,122410,17.31,14.73,oil cooled,5 speed manual,chain drive,159.7,1,12,45,114,144,Chennai,32000,Dealer,180,800
+TVS Ronin,TVS,149000,20.1,19.93,oil cooled,5 speed manual,chain drive,225.9,1,14,40,120,159,Madurai,10000,Dealer,181,795
+TVS Ntorq 125,TVS,85995,9.25,10.5,air cooled,automatic,cvt,124.8,1,5.8,40,95,118,Trichy,21178,Dealer,155,770
+TVS Sport,TVS,61577,8.18,8.7,air cooled,4 speed manual,chain drive,109.7,1,10,70,90,110,Kanyakumari,1127,Dealer,175,790
+Apache,TVS,264987,33.5,27.3,liquid cooled,6 speed manual,chain drive,312.2,1,11,30.5,160,174,Salem,1700,Dealer,180,810
+Apache,TVS,141058,20.54,17.25,oil cooled,5 speed manual,chain drive,197.75,1,12,39,127,152,Tirupur,55000,Dealer,180,800
+TVS Jupiter,TVS,76461,7.77,8.8,air cooled,automatic,cvt,109.7,1,6,50,78,107,Erode,27000,Dealer,163,765
+TVS Jupiter 125,TVS,84568,8.04,10.5,air cooled,automatic,cvt,124.8,1,5.1,49,95,108,Krishnagiri,45000,Dealer,163,765
+Apache,TVS,121725,16.56,15.5,oil cooled,5 speed manual,chain drive,177.4,1,12,42,113,141,Coimbatore,23000,Dealer,170,790
+TVS Star City Plus,TVS,73481,8.08,8.7,air cooled,4 speed manual,chain drive,109.7,1,10,68,90,115,Chennai,39000,Dealer,172,785
+TVS Radeon,TVS,71674,8.08,8.7,air cooled,4 speed manual,chain drive,109.7,1,10,65,90,116,Madurai,60000,Dealer,180,780
+TVS Scooty Pep Plus,TVS,64580,5.36,6.5,air cooled,automatic,cvt,87.8,1,4.2,50,66,93,Trichy,17450,Dealer,135,768
+TVS XL100 Heavy Duty,TVS,47140,4.3,6.5,air cooled,automatic,cvt,99.7,1,4,55,58,88,Kanyakumari,20696,Dealer,158,787
+TVS Scooty Zest 110,TVS,75471,7.71,8.8,air cooled,automatic,cvt,109.7,1,5,45,80,103,Salem,2000,Dealer,150,760
+TVS XL100 Comfort,TVS,45648,4.3,6.5,air cooled,automatic,cvt,99.7,1,4,51.5,58,86,Tirupur,20000,Dealer,158,781
+Splendor,Hero,71571,7.91,8.05,air cooled,4 speed manual,chain drive,97.2,1,9.8,60,87,112,Erode,35000,Dealer,165,785
+Hero Splendor Plus Xtec,Hero,76381,7.9,8.05,air cooled,4 speed manual,chain drive,97.2,1,9.8,60,87,112,Krishnagiri,15210,Dealer,165,785
+Hero HF Deluxe,Hero,60163,7.91,8.05,air cooled,4 speed manual,chain drive,97.2,1,9.6,65,85,110,Coimbatore,24000,Dealer,165,805
+Splendor,Hero,78627,10.72,10.6,air cooled,5 speed manual,chain drive,124.7,1,12,55,90,122,Chennai,35000,Dealer,180,799
+Hero Xtreme 160R,Hero,119570,15,14,air cooled,5 speed manual,chain drive,163,1,12,46,107,138.5,Madurai,10000,Dealer,167,790
+Hero Glamour,Hero,79029,10.72,10.6,air cooled,5 speed manual,chain drive,124.7,1,10,55,95,122,Trichy,2500,Dealer,180,793
+Hero Passion Pro,Hero,73432,9.02,9.89,air cooled,4 speed manual,chain drive,110,1,10,55,90,117,Kanyakumari,75000,Dealer,180,799
+Hero Xpulse 200 4V,Hero,137436,18.8,17.35,oil cooled,5 speed manual,chain drive,199.6,1,13,40,115,158,Salem,50000,Dealer,220,825
+Hero Pleasure +,Hero,68847,8,8.7,air cooled,automatic,cvt,110.9,1,4.8,50,75,104,Tirupur,27000,Dealer,155,765
+Hero Passion Xtec,Hero,80746,9,9.79,air cooled,4 speed manual,chain drive,110,1,10,59,90,118,Erode,10000,Dealer,180,799
+Hero Glamour Xtec,Hero,91033,10.72,10.6,air cooled,5 speed manual,chain drive,124.7,1,10,50,95,123,Krishnagiri,6502,Dealer,180,793
+Hero Xpulse 200T 4V,Hero,133285,18.83,17.3,oil cooled,5 speed manual,chain drive,199.6,1,13,39,115,154,Coimbatore,21000,Dealer,175,799
+Hero Xtreme 200S,Hero,135257,17.8,16.45,oil cooled,5 speed manual,chain drive,199.6,1,12.8,40,115,154.5,Chennai,16000,Dealer,165,795
+Hero Pleasure + Xtec,Hero,78913,8,8.7,air cooled,automatic,cvt,110.9,1,4.8,50,75,104,Madurai,42000,Dealer,155,765
+Hero Maestro Edge 125,Hero,87827,9,10.4,air cooled,automatic,cvt,124.6,1,5,45,90,112,Trichy,13000,Dealer,155,775
+Hero Destini 125 Xtec,Hero,83842,9,10.4,air cooled,automatic,cvt,125,1,5,45,85,114,Kanyakumari,12800,Dealer,155,778
+Hero Maestro Edge 110,Hero,70899,8.04,8.7,air cooled,automatic,cvt,110.9,1,5,40,80,112,Salem,20000,Dealer,155,775
+Pulsar,Bajaj,82712,11.64,10.8,air cooled,5 speed manual,chain drive,124.4,1,11.5,50,100,140,Tirupur,4600,Dealer,165,790
+Pulsar,Bajaj,105884,13.8,13.25,air cooled,5 speed manual,chain drive,149.5,1,15,47.5,110,148,Erode,81000,Dealer,165,785
+Pulsar,Bajaj,123006,15.68,14.65,oil cooled,5 speed manual,chain drive,164.82,1,14,45,120,152,Krishnagiri,8000,Dealer,165,795
+Pulsar,Bajaj,171256,24.1,18.7,liquid cooled,6 speed manual,chain drive,199.5,1,13,35,140.8,166,Coimbatore,55000,Dealer,157,810
+Pulsar,Bajaj,105597,11.8,11,air cooled,5 speed manual,chain drive,124.45,1,12,49.5,103,144,Chennai,57000,Dealer,179,805
+Platina,Bajaj,52734,7.9,8.34,air cooled,4 speed manual,chain drive,102,1,11,73.5,90,117,Madurai,26000,Dealer,200,807
+Pulsar,Bajaj,142055,24.13,18.74,liquid cooled,6 speed manual,chain drive,199.5,1,12,36,125,159.5,Trichy,13000,Dealer,168,805
+Pulsar,Bajaj,124604,17.03,14.6,oil cooled,5 speed manual,chain drive,160.3,1,12,41,120,151,Kanyakumari,29000,Dealer,176,805
+Bajaj Dominar 400,Bajaj,222744,39.42,35,liquid cooled,6 speed manual,chain drive,373.3,1,13,29,155,193,Salem,43000,Dealer,157,800
+Bajaj Dominar 250,Bajaj,175054,26.63,23.5,liquid cooled,6 speed manual,chain drive,248.8,1,13,32,132,180,Tirupur,40000,Dealer,157,800
+Platina,Bajaj,67659,8.44,9.81,air cooled,5 speed manual,chain drive,115.45,1,11,70,90,119,Erode,40000,Dealer,200,807
+Pulsar,Bajaj,144285,24.1,21.5,oil cooled,5 speed manual,chain drive,249,1,14,35,132,162,Krishnagiri,24000,Dealer,165,795
+Bajaj CT 110,Bajaj,59041,8.48,9.81,air cooled,4 speed manual,chain drive,115.45,1,10.5,70,90,118,Coimbatore,3000,Dealer,170,810
+Bajaj CT 125X,Bajaj,72023,10.7,11,air cooled,5 speed manual,chain drive,124.4,1,11,nan,95,130,Chennai,75000,Dealer,170,810
+Avenger,Bajaj,112562,14.79,13.7,air cooled,5 speed manual,chain drive,160,1,13,45,105,156,Madurai,42000,Dealer,169,737
+Pulsar,Bajaj,144449,24.1,21.5,oil cooled,5 speed manual,chain drive,249,1,14,37.5,132,164,Trichy,13000,Dealer,165,795
+Avenger,Bajaj,138999,18.4,17.55,oil cooled,5 speed manual,chain drive,220,1,13,40,120,163,Kanyakumari,55000,Dealer,169,737
+Honda SP 125,Honda,83086,10.72,10.9,air cooled,5 speed manual,chain drive,124,1,11,65,100,116,Salem,23000,Dealer,160,790
+Activa,Honda,73663,7.68,8.84,air cooled,automatic,cvt,109.51,1,5.3,47,85,106,Tirupur,24000,Dealer,162,692
+Honda Shine,Honda,78000,10.59,11,air cooled,5 speed manual,chain drive,123.94,1,10.5,55,102,114,Erode,80000,Dealer,162,791
+Honda Unicorn,Honda,104982,12.73,14,air cooled,5 speed manual,chain drive,162.7,1,13,50,106,140,Krishnagiri,39000,Dealer,187,798
+Honda Dio,Honda,71502,7.65,9,fan cooled,automatic,cvt,109.51,1,5.3,48,83,105,Coimbatore,20000,Dealer,160,650
+Honda Hornet 2.0,Honda,136391,17.03,16.1,air cooled,5 speed manual,chain drive,184.4,1,12,45,130,142,Chennai,30000,Dealer,167,790
+Honda Hness CB350,Honda,200349,20.78,30,air cooled,5 speed manual,chain drive,348.36,1,15,35,125,181,Madurai,21000,Dealer,166,800
+Activa,Honda,78396,8.18,10.3,air cooled,automatic,cvt,124,1,5.3,47,90,111,Trichy,41000,Dealer,169,712
+Honda Livo,Honda,75659,8.67,9.3,air cooled,4 speed manual,chain drive,109.51,1,9,58,85,115,Kanyakumari,8000,Dealer,163,790
+Honda X-Blade,Honda,115759,13.67,14.7,air cooled,5 speed manual,chain drive,162.71,1,12,50,115,143,Salem,50000,Dealer,160,795
+Honda CB300F,Honda,226217,23.8,25.6,oil cooled,6 speed manual,chain drive,293.52,1,14.1,nan,155,153,Tirupur,8150,Dealer,177,789
+Honda CB350RS,Honda,205107,20.78,30,air cooled,5 speed manual,chain drive,348.36,1,15,35,150,179,Erode,1933,Dealer,168,800
+Honda CB300R,Honda,277332,31.1,27.5,liquid cooled,6 speed manual,chain drive,286,1,9.7,30,150,146,Krishnagiri,55750,Dealer,157,801
+Honda CD 110 Dream,Honda,71306,8.67,9.3,air cooled,4 speed manual,chain drive,109.51,1,9.1,65,86,112,Coimbatore,15856,Dealer,162,790
+CBR,Honda,934817,85.82,57.5,liquid cooled,6 speed manual,chain drive,648.72,4,15.4,nan,230,211,Chennai,27000,Dealer,132,810
+Honda CB200X,Honda,148554,17,16.1,air cooled,5 speed manual,chain drive,184.4,1,12,43,130,147,Madurai,3700,Dealer,167,810
+Honda Grazia,Honda,82398,8.14,10.3,fan cooled,automatic,cvt,124,1,5.3,45,90,108,Trichy,21938,Dealer,171,708
+CBR,Honda,2372222,215,113,liquid cooled,6 speed manual,chain drive,1000,4,16.1,nan,297,201,Kanyakumari,48000,Dealer,115,830
+Honda Goldwing,Honda,3988635,124.7,170,liquid cooled,7 speed automatic,shaft drive,1833,6,21.1,nan,230,390,Salem,16000,Dealer,130,745
+Honda Africa Twin,Honda,1601500,97.89,103,liquid cooled,6 speed manual,chain drive,1082,2,24.5,nan,200,239,Tirupur,54000,Dealer,210,810
+Honda CB650R,Honda,914337,85.82,57.5,liquid cooled,6 speed manual,chain drive,648.72,4,15.4,nan,220,206,Erode,35000,Dealer,148,810
+Yamaha MT 15 V2,Yamaha,165390,18.1,14.1,liquid cooled,6 speed manual,chain drive,155,1,10,46.5,130,139,Krishnagiri,15000,Dealer,170,810
+Yamaha R15 V4,Yamaha,180687,18.1,14.2,liquid cooled,6 speed manual,chain drive,155,1,11,45,140,142,Coimbatore,32000,Dealer,170,815
+Yamaha FZ S FI,Yamaha,121979,12.2,13.3,air cooled,5 speed manual,chain drive,149,1,13,46,115,135,Chennai,3500,Dealer,165,790
+Yamaha FZ FI,Yamaha,113636,12.2,13.3,air cooled,5 speed manual,chain drive,149,1,13,46,115,135,Madurai,9000,Dealer,165,790
+Yamaha R15S,Yamaha,163734,18.3,14.1,liquid cooled,6 speed manual,chain drive,155,1,11,45,136,142,Trichy,38000,Dealer,170,815
+Yamaha FZ X,Yamaha,135240,12.2,13.3,air cooled,5 speed manual,chain drive,149,1,10,48,115,139,Kanyakumari,50000,Dealer,165,810
+Yamaha FZ25,Yamaha,150623,20.51,20.1,air cooled,5 speed manual,chain drive,249,1,14,38,130,153,Salem,20000,Dealer,160,795
+Yamaha Ray ZR 125,Yamaha,83273,8.04,10.3,air cooled,automatic,cvt,125,1,5.2,52,90,98,Tirupur,22000,Dealer,145,785
+Yamaha Fascino 125,Yamaha,79456,8.04,10.3,air cooled,automatic,cvt,125,1,5.2,50,90,99,Erode,9432,Dealer,145,780
+Yamaha Aerox 155,Yamaha,141554,14.79,13.9,liquid cooled,automatic,cvt,155,1,5.5,44.5,115,126,Krishnagiri,70000,Dealer,145,790
+Suzuki Access 125,Suzuki,77378,8.6,10,air cooled,automatic,cvt,124,1,5,48,90,104,Coimbatore,43000,Dealer,160,773
+Suzuki Gixxer SF,Suzuki,135702,13.4,13.8,air cooled,5 speed manual,chain drive,155,1,12,45,125,148,Chennai,500000,Dealer,165,795
+Suzuki Burgman Street 125,Suzuki,89436,8.58,10,air cooled,automatic,cvt,124,1,5.5,49,95,110,Madurai,30514,Dealer,160,780
+Suzuki Gixxer,Suzuki,130718,13.41,13.8,air cooled,5 speed manual,chain drive,155,1,12,45,115,141,Trichy,130000,Dealer,160,795
+Suzuki Gixxer SF 250,Suzuki,188738,26.13,22.2,oil cooled,6 speed manual,chain drive,249,1,12,35.5,150,161,Kanyakumari,45000,Dealer,165,800
+Suzuki Gixxer 250,Suzuki,177973,26.13,22.2,oil cooled,6 speed manual,chain drive,249,1,12,35,130,156,Salem,25000,Dealer,165,800
+Suzuki Katana,Suzuki,1366892,150.19,106,liquid cooled,6 speed manual,chain drive,999,4,12,nan,240,217,Tirupur,2500,Dealer,140,825
+Suzuki V-Strom 650 XT,Suzuki,892801,69.7,62,liquid cooled,6 speed manual,chain drive,645,2,20,nan,190,216,Erode,22770,Dealer,170,835
+Duke,KTM,190851,24.67,19.3,liquid cooled,6 speed manual,chain drive,199.5,1,13.4,33.5,142,159,Krishnagiri,30000,Dealer,155,822
+Duke,KTM,236090,29.6,24,liquid cooled,6 speed manual,chain drive,248.76,1,13.4,32,148,170,Coimbatore,35000,Dealer,151,822
+Duke,KTM,295182,42.9,37,liquid cooled,6 speed manual,chain drive,373.27,1,13.4,26,167,171,Chennai,6330,Dealer,151,822
+Duke,KTM,176937,14.3,12,liquid cooled,6 speed manual,chain drive,124.7,1,13.4,40,112,159,Madurai,500,Dealer,155,822
+KTM 390 Adventure,KTM,337292,42.3,37,liquid cooled,6 speed manual,chain drive,373,1,14.5,28,180,177,Trichy,43400,Dealer,200,855
+KTM 250 Adventure,KTM,242595,29.5,24,liquid cooled,6 speed manual,chain drive,248,1,14.5,nan,140,177,Kanyakumari,7004,Dealer,200,855
+Jawa 42,Jawa,174573,26.95,26.84,liquid cooled,6 speed manual,chain drive,294.72,1,13.2,33,130,182,Salem,16500,Dealer,165,765
+Jawa Standard,Jawa,183648,27,27.05,liquid cooled,6 speed manual,chain drive,293,1,14,30,122,172,Tirupur,12500,Dealer,165,765
+Ninja,Kawasaki,7990000,305.75,165,liquid cooled,6 speed manual,chain drive,998,4,17,15,400,216,Erode,9600,Dealer,130,830
+Ninja,Kawasaki,340000,38.88,26.1,liquid cooled,6 speed manual,chain drive,296,2,17,nan,160,179,Krishnagiri,35000,Dealer,140,780
+Ninja,Kawasaki,1614985,200.21,114.9,liquid cooled,6 speed manual,chain drive,998,4,17,nan,299,207,Coimbatore,11000,Dealer,135,835
+Kawasaki Z900,Kawasaki,902000,123.64,98.6,liquid cooled,6 speed manual,chain drive,948,4,17,nan,195,212,Chennai,20000,Dealer,145,820
+Ninja,Kawasaki,513959,44.7,37,liquid cooled,6 speed manual,chain drive,399,2,14,nan,169,168,Madurai,13000,Dealer,140,785
+Kawasaki Ninja 650,Kawasaki,712000,67.3,64,liquid cooled,6 speed manual,chain drive,649,2,15,30,210,196,Trichy,3500,Dealer,130,790
+Kawasaki Z650,Kawasaki,643034,67.31,64,liquid cooled,6 speed manual,chain drive,649,2,15,nan,201,191,Kanyakumari,9000,Dealer,130,790
+Ninja,Kawasaki,1209967,140.13,111,liquid cooled,6 speed manual,chain drive,1043,4,19,nan,244,238,Salem,7500,Commercial Registration,135,835
+Kawasaki Vulcan S,Kawasaki,640000,59.94,62.4,liquid cooled,6 speed manual,chain drive,649,2,14,nan,186,235,Tirupur,38000,Dealer,130,705
+Kawasaki Z H2,Kawasaki,2301733,197.26,137,liquid cooled,6 speed manual,chain drive,998,4,19,nan,280,239,Erode,120000,Dealer,140,830
+Kawasaki Z650RS,Kawasaki,692036,67.31,64,liquid cooled,6 speed manual,chain drive,649,2,12,nan,201,192,Krishnagiri,6465,Dealer,125,800
+Kawasaki Versys 650,Kawasaki,753951,65.7,61,liquid cooled,6 speed manual,chain drive,649,2,21,nan,199,219,Coimbatore,18803,Dealer,170,845
+Kawasaki W800,Kawasaki,732773,50.95,62.9,air cooled,5 speed manual,chain drive,773,2,15,nan,177,224,Chennai,20000,Dealer,130,770
+Kawasaki Versys 1000,Kawasaki,1219000,118.27,102,liquid cooled,6 speed manual,chain drive,1043,4,21,nan,240,255,Madurai,24000,Dealer,150,840
+SR,Aprilia,131349,10.84,11.6,air cooled,automatic,cvt,160.03,1,6,35,90,122,Trichy,22000,Dealer,169,780
+SR,Aprilia,122451,9.78,9.7,air cooled,automatic,cvt,124.45,1,6,40,90,115,Kanyakumari,7000,Dealer,155,780
+Aprilia Storm 125,Aprilia,102253,9.78,9.6,air cooled,automatic,cvt,124.45,1,6,40,90,118,Salem,6100,Dealer,130,755
+Aprilia SXR 160,Aprilia,143872,10.84,11.6,air cooled,automatic,cvt,160.03,1,7,35,100,129,Tirupur,14000,Dealer,160,775
+Aprilia SXR 125,Aprilia,132615,9.38,9.2,air cooled,automatic,cvt,124.45,1,7,nan,90,128,Erode,23000,Dealer,161,775
+Aprilia RSV4 1100 Factory,Aprilia,2369000,213.89,125,liquid cooled,6 speed manual,chain drive,1099,4,17.9,nan,305,202,Krishnagiri,85000,Dealer,130,845
+Aprilia Tuono Factory,Aprilia,2066000,172.58,122,liquid cooled,6 speed manual,chain drive,1077,4,18.5,nan,265,209,Coimbatore,40000,Dealer,125,837
+Benelli Imperiale 400,Benelli,234886,20.7,29,air cooled,5 speed manual,chain drive,374,1,12,30,115,205,Chennai,18000,Dealer,165,780
+Benelli TRK 251,Benelli,298977,25.47,21.2,liquid cooled,6 speed manual,chain drive,249,1,18,nan,148,164,Madurai,10000,Dealer,170,800
+Benelli 502C,Benelli,579955,46.8,46,liquid cooled,6 speed manual,chain drive,500,2,21,nan,175,220,Trichy,40000,Dealer,170,750
+Benelli TRK 502X,Benelli,629954,46.85,46,liquid cooled,6 speed manual,chain drive,500,2,20,nan,160,235,Kanyakumari,1500,Dealer,220,840
+Benelli TRK 502,Benelli,569881,46.8,46,liquid cooled,6 speed manual,chain drive,500,2,20,nan,150,235,Salem,30000,Dealer,190,800
+Benelli Leoncino 500,Benelli,554876,46.8,46,liquid cooled,6 speed manual,chain drive,500,2,12.7,nan,170,207,Tirupur,3000,Dealer,160,790
+CFMoto 300NK,CFMoto,229000,27.49,25,liquid cooled,6 speed manual,chain drive,292.4,1,12.5,nan,127,151,Erode,55000,Dealer,150,795
+CFMoto 650NK,CFMoto,429000,55.65,54.4,liquid cooled,6 speed manual,chain drive,649.3,2,17,nan,180,206,Krishnagiri,12000,Dealer,150,815
+CFMoto 650GT,CFMoto,559000,55.65,54.4,liquid cooled,6 speed manual,chain drive,649.3,2,19,nan,195,226,Coimbatore,90000,Dealer,150,795
+CFMoto 650MT,CFMoto,529000,55.65,54.4,liquid cooled,6 speed manual,chain drive,649,2,18,nan,170,218,Chennai,500,Dealer,128,840
+Ducati Panigale V4,Ducati,2741000,212.5,123.6,liquid cooled,6 speed manual,chain drive,1103,4,17,nan,299,198.5,Madurai,50000,Dealer,122,850
+Ducati SuperSport,Ducati,1575000,108.62,93,liquid cooled,6 speed manual,chain drive,937,2,16,nan,299,210,Trichy,25000,Dealer,132,810
+Ducati Monster BS6,Ducati,1249000,109.96,93,liquid cooled,6 speed manual,chain drive,937,2,14,nan,200,188,Kanyakumari,36500,Dealer,202,820
+Scrambler,Ducati,939000,71.87,66.2,air cooled,6 speed manual,chain drive,803,2,13.5,nan,299,189,Salem,26000,Dealer,176,798
+Ducati Streetfighter V4,Ducati,2215000,205.17,123,liquid cooled,6 speed manual,chain drive,1103,4,16,nan,299,201,Tirupur,18000,Dealer,121,845
+Ducati Panigale V2,Ducati,2026450,152.8,104,liquid cooled,6 speed manual,chain drive,955,2,17,nan,299,200,Erode,49000,Dealer,128,840
+Ducati XDiavel,Ducati,2120000,160,127.4,liquid cooled,6 speed manual,chain drive,1262,2,18,nan,299,247,Krishnagiri,18000,Dealer,140,755
+Ducati Streetfighter V2,Ducati,1810000,150.59,101.4,liquid cooled,6 speed manual,chain drive,955,2,17,nan,270,200,Coimbatore,15000,Dealer,131,845
+Ducati Diavel 1260,Ducati,2149000,159.58,129,liquid cooled,6 speed manual,chain drive,1262,2,17,nan,299,249,Chennai,8500,Dealer,121,780
+Scrambler,Ducati,1169000,71.87,66.2,air cooled,6 speed manual,chain drive,803,2,13.5,nan,299,192,Madurai,3775,Dealer,176,798
+Ducati Hypermotard 950,Ducati,1560000,112.4,96,liquid cooled,6 speed manual,chain drive,937,2,14.5,nan,316,200,Trichy,14500,Dealer,215,870
+Ducati Multistrada V4,Ducati,2148000,167.62,125,liquid cooled,6 speed manual,chain drive,1158,4,22,nan,180,240,Kanyakumari,35000,Dealer,218,840
+Scrambler,Ducati,1340000,84.48,88,air cooled,6 speed manual,chain drive,1079,2,15,nan,299,206,Salem,14000,Dealer,160,810
+Ducati Multistrada V2,Ducati,1605000,111.3,96,liquid cooled,6 speed manual,chain drive,937,2,20,nan,182,222,Tirupur,16000,Dealer,170,830
+Scrambler,Ducati,1199000,71.87,66.2,air cooled,6 speed manual,chain drive,803,2,13.5,nan,299,189,Erode,7000,Dealer,176,798
+Ducati Scrambler Desert Sled,Ducati,1259000,71.87,66.2,air cooled,6 speed manual,chain drive,803,2,13.5,nan,299,209,Krishnagiri,4000,Dealer,238,860
+Husqvarna Svartpilen 250,Husqvarna,217632,29.63,24,liquid cooled,6 speed manual,chain drive,248.76,1,9.5,30,145,166,Coimbatore,45000,Dealer,149,842
+Husqvarna Vitpilen 250,Husqvarna,217074,29.63,24,liquid cooled,6 speed manual,chain drive,248.76,1,9.5,31,150,166,Chennai,99000,Dealer,149,842
+Triumph Rocket 3,Triumph,2019312,165,221,water cooled,6 speed manual,shaft drive,2458,3,18,nan,220,304,Madurai,52000,Dealer,140,773
+Triumph Trident 660,Triumph,758000,80,64,liquid cooled,6 speed manual,chain drive,660,3,14,nan,212,189,Trichy,45000,Dealer,150,805
+Triumph Speed Triple 1200 RS,Triumph,1795000,177.5,125,liquid cooled,6 speed manual,chain drive,1160,3,15.5,nan,230,198,Kanyakumari,52000,Dealer,165,830
+Triumph Tiger 900,Triumph,1399865,93.9,87,liquid cooled,6 speed manual,chain drive,888,3,20,nan,200,194,Salem,27000,Dealer,203,810
+Bonneville,Triumph,1285000,76.9,106,liquid cooled,6 speed manual,chain drive,1200,2,12,nan,150,251,Tirupur,60000,Dealer,140,690
+Triumph Speed Twin 900,Triumph,879006,64.1,80,liquid cooled,5 speed manual,chain drive,900,2,12,nan,180,216,Erode,2300,Dealer,130,765
+Triumph Scrambler 900,Triumph,989006,64.1,80,liquid cooled,5 speed manual,chain drive,900,2,12,nan,175,223,Krishnagiri,15000,Dealer,157.5,790
+Triumph Speed Twin,Triumph,1122000,98.6,112,liquid cooled,6 speed manual,chain drive,1200,2,14.5,nan,200,216,Coimbatore,50000,Dealer,130,809
+Bonneville,Triumph,1139000,78.9,105,liquid cooled,6 speed manual,chain drive,1200,2,14.5,nan,190,236,Chennai,27000,Dealer,140,790
+Bonneville,Triumph,1285000,76.9,106,liquid cooled,6 speed manual,chain drive,1200,2,12,nan,161,263,Madurai,25000,Dealer,140,705
+Triumph Bonneville T100,Triumph,1004000,64.1,80,liquid cooled,5 speed manual,chain drive,900,2,14.5,nan,185,228,Trichy,40000,Dealer,140,790
+Triumph Tiger 850 Sport,Triumph,1195000,84,82,liquid cooled,6 speed manual,chain drive,888,3,20,nan,160,192,Kanyakumari,32000,Dealer,203,810
+Vespa ZX 125,Vespa,116135,9.78,9.6,air cooled,automatic,cvt,124.45,1,7.4,nan,95,114,Salem,50000,Dealer,155,770
+Vespa SXL 125,Vespa,134313,9.78,9.6,air cooled,automatic,cvt,124.45,1,7.4,40,90,114,Tirupur,36000,Dealer,155,770
+Vespa SXL 150,Vespa,148261,10.32,10.6,air cooled,automatic,cvt,149.5,1,7.4,35,95,114,Erode,17450,Dealer,155,770
+Vespa VXL 125,Vespa,130438,9.78,9.6,air cooled,automatic,cvt,124.45,1,7.4,39,90,114,Krishnagiri,32000,Dealer,155,770
+Vespa VXL 150,Vespa,143895,10.32,10.6,air cooled,automatic,cvt,149.5,1,7.4,45,95,114,Coimbatore,38000,Dealer,155,770
+Vespa Elegante 150,Vespa,155927,10.32,10.6,air cooled,automatic,cvt,149.5,1,7.4,45,100,114,Chennai,71000,Dealer,155,770
